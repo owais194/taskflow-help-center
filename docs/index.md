@@ -33,6 +33,7 @@ Find setup guides, step-by-step instructions, admin settings, and troubleshootin
 - [Troubleshoot login issues](troubleshooting/login-issues.md)
 - [Fix “email invite not received”](troubleshooting/email-invites-not-received.md)
 - [Fix “search not returning results”](troubleshooting/search-not-working.md)
+- [Fix “not receiving notifications”](troubleshooting/not-receiving-notifications.md)
 
 ## FAQs
 
