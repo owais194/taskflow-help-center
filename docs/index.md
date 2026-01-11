@@ -34,6 +34,7 @@ Find setup guides, step-by-step instructions, admin settings, and troubleshootin
 - [Fix “email invite not received”](troubleshooting/email-invites-not-received.md)
 - [Fix “search not returning results”](troubleshooting/search-not-working.md)
 - [Fix “not receiving notifications”](troubleshooting/not-receiving-notifications.md)
+- [Fix “tasks not visible to teammates” (permissions)](troubleshooting/tasks-not-visible-to-teammates.md)
 
 ## FAQs
 
