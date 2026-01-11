@@ -35,6 +35,7 @@ Find setup guides, step-by-step instructions, admin settings, and troubleshootin
 - [Fix “search not returning results”](troubleshooting/search-not-working.md)
 - [Fix “not receiving notifications”](troubleshooting/not-receiving-notifications.md)
 - [Fix “tasks not visible to teammates” (permissions)](troubleshooting/tasks-not-visible-to-teammates.md)
+- [Fix “can’t invite teammates” (domain restrictions or permissions)](troubleshooting/cant-invite-teammates.md)
 
 ## FAQs
 
